@@ -1,0 +1,157 @@
+*{
+margin:0;
+padding:0;
+box-sizing: border-box;
+}
+
+header{
+    background-image:url(foto/house.jpg);
+    width:100%;
+    height:700px;
+    background-repeat:no-repeat;
+    background-size:cover; 
+    background-position:center;
+    margin:0 auto;
+}
+
+nav{
+    width:100%;
+    height:50px;
+    background-color:white;
+    box-shadow:2px;
+    
+}
+
+a{
+    color:black;
+    text-decoration:none;
+    color:black;
+    font-size:20px;
+    letter-spacing:1px;
+}
+
+li{
+    width:200px;
+    height:50px;
+    display:inline-block;
+    text-align: center;
+    padding: 10px;
+    }
+
+ul{
+    width:100%;
+    height:50px;
+    text-align:right;
+}
+
+.logo{
+
+    position: absolute; 
+    width:200px;
+    height:50px;
+     font-size:20px;
+    letter-spacing:1px;
+    padding: 10px;
+}
+
+h1{
+  text-align:center;
+}
+
+li:hover{
+    background-color:lightgray;
+}
+
+span:hover{
+    background-color:lightgray;
+}
+
+
+    h2{
+        width:200px;
+        height:auto;
+        font-family;
+        margin: 60px 20px 20px 60px;
+    }
+
+section{
+    width:100%;
+    height:auto;
+    text-align:center;
+}
+
+.projektai div{
+    width:300px;
+    height:200px;
+    display:inline-block;
+    margin:15px;
+}
+
+h3{
+    background-color:black;
+    color:white;
+    padding:10px;
+    width:200px;
+    
+}
+
+.foto1{
+    background-image:url(foto/house1.jpg);
+    background-repeat:no-repeat;
+    background-size:cover; 
+    background-position:center;
+}
+
+.foto2{
+    background-image:url(foto/house2.jpg);
+    background-repeat:no-repeat;
+    background-size:cover; 
+    background-position:center;
+}
+
+.foto3{
+    background-image:url(foto/house3.jpg);
+    background-repeat:no-repeat;
+    background-size:cover; 
+    background-position:center;
+}
+
+.foto4{
+    background-image:url(foto/house4.jpg);
+    background-repeat:no-repeat;
+    background-size:cover; 
+    background-position:center;
+}
+
+.foto5{
+    background-image:url(foto/house5.jpg);
+    background-repeat:no-repeat;
+    background-size:cover; 
+    background-position:center;
+}
+
+.foto6{
+    background-image:url(foto/house6.jpg);
+    background-repeat:no-repeat;
+    background-size:cover; 
+    background-position:center;
+}
+
+.foto7{
+    background-image:url(foto/house7.jpg);
+    background-repeat:no-repeat;
+    background-size:cover; 
+    background-position:center;
+}
+
+.foto8{
+    background-image:url(foto/house8.jpg);
+    background-repeat:no-repeat;
+    background-size:cover; 
+    background-position:center;
+}
+
+
+
+    
+    
